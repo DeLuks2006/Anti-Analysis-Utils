@@ -16,6 +16,10 @@ A collection of anti-analysis techniques and their implementations (C/ASM)
 
 # Anti-Debug
 
+- [IsBeingDebugged()](Anti-Debug/IsBeingDebugged.c)
+- [PEB->BeingDebugged](Anti-Debug/BeingDebugged.c)
+- [CheckRemoteDebuggerPresent](Anti-Debug/CheckRemoteDebuggerPresent.c)
+
 # Anti-Disassembly
 
 # Anti-VM
